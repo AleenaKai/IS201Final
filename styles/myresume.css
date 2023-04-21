@@ -1,0 +1,67 @@
+    
+    h1{
+    text-align: center;
+    color: white;
+    background-color: black;
+    }
+    img{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 15%;
+      height:15%;
+      border: 2px solid black;
+    }
+    body{
+      background-color: rgba(250, 235, 215, 0.51);
+      font-family: 'Times New Roman', Times, serif;
+    }
+    p{
+      font-style: italic;
+    }
+    div{
+      text-align: right;
+    }
+    
+    .contact{
+      text-align: center;
+    }
+    .container {
+      display: flex;
+      justify-content: space-between;
+    }
+    
+    .left-text {
+      text-align: left;
+    }
+    
+    .right-text {
+      text-align: right;
+    }
+
+    a:hover {
+      font-size: 110%;
+      font-weight: bold;
+      text-decoration: underline;
+    }    
+
+  .center {
+    display: block; /* or inline-block */
+    margin: auto;
+}
+
+.italicize{
+  font-style: italic;
+}
+
+.color{
+  color: white;
+}
+
+h4{
+  background-color: black;
+}
+
+.colorr{
+  color: black;
+}
