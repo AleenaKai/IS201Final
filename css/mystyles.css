@@ -1,0 +1,66 @@
+h3{
+    text-align: center;
+}
+
+img{
+    text-align: center;
+    width: 440px;
+    height: 490px;
+    margin-top: 1px;
+    margin-left: 1px;
+    margin-bottom: 1px;
+    margin-right: 1px;
+    border: 1px solid black;
+    border-radius: 10%;
+}
+  
+.right {
+  margin-right: 20px;
+}
+
+  a:hover {
+    font-size: 110%;
+    font-weight: bold;
+    text-decoration: underline;
+  } 
+  
+  .left {
+    margin-left: 25px;
+  }
+  
+  .right {
+    margin-left: 1295px;
+  }
+  
+  footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+      }
+    
+    .au{
+      margin-top: 0%;
+      margin-left: -5%;
+    }
+
+    .umi{
+      margin-top: -10%;
+      margin-left: 45%;
+      width: 420px;
+      height: 490px;
+    }
+
+    .val{
+      margin-top: -15%;
+      margin-left: -5%;
+    }
+
+    .kapua{
+      margin-top: -15%;
+      margin-left: 45%;
+    }
+
+    .container2{
+      width: 100%;
+      height: 100%;
+    }

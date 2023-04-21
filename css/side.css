@@ -1,0 +1,125 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+footer .container {
+  display: flex;
+  justify-content: center;
+  white-space: nowrap;
+}
+
+.left {
+  margin-left: 25px;
+}
+
+.right {
+  margin-left: 1295px;
+}
+
+a:hover {
+  font-size: 110%;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+h1 {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+.pancakes {
+  height: 400px;
+  width: 500px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.casserole {
+  height: 500px;
+  width: 400px;
+}
+
+.dillsalmon {
+  height: 500px;
+  width: 400px;
+}
+
+.chicken {
+  height: 400px;
+  width: 500px;
+}
+
+.salmonteriyaki {
+  height: 500px;
+  width: 400px;
+}
+
+.soup {
+  height: 500px;
+  width: 400px;
+}
+
+.video {
+  height: 400px;
+  width: 600px;
+}
+
+.cookie {
+  height: 350px;
+  width: 500px;
+}
+
+.pie {
+  height: 500px;
+  width: 400px;
+}
+
+.haupia {
+  height: 450px;
+  width: 450px;
+}
+
+.namasu {
+  height: 500px;
+  width: 400px;
+}
+
+.snickersalad {
+  height: 450px;
+  width: 400px;
+}
+
+img {
+  border-color: black;
+}
+
+.breakfast {
+  margin-top: -80%;
+  margin-left: 190%;
+  height: 75px;
+  width: 85px;
+}
+
+.main {
+  margin-top: -190%;
+  margin-left: 210%;
+  height: 75px;
+  width: 85px;
+}
+
+.side {
+  margin-top: -185%;
+  margin-left: 240%;
+  height: 65px;
+  width: 70px;
+}
